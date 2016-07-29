@@ -1,0 +1,7 @@
+framework module "Gomoapp" {
+    header "GoGomoapp.h"
+    header "GoUniverse.h"
+    header "Gomoapp.h"
+
+    export *
+}
